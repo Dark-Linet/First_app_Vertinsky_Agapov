@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">First_app_Vertinsky_Agapov</string>
+    <string name="button_text">Кнопка бросить</string>
+    <string name="click_button">Нажмите кнопку,чтобы бросить кубик</string>
 </resources>
